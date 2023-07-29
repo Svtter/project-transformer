@@ -1,5 +1,7 @@
 # Project Transformer
 
+> Restart the research craft.
+
 About transformer source code.
 
 - notebook
