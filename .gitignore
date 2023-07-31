@@ -374,3 +374,4 @@ ted_hrlr_translate_pt_en_converter
 
 
 *.pth
+torch2/cifar_net.pth
