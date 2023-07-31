@@ -368,3 +368,6 @@ attach/dictionary/*
 __pypackages__
 
 .coverage
+
+*.zip
+ted_hrlr_translate_pt_en_converter
