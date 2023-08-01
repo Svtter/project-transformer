@@ -18,3 +18,9 @@ About transformer source code.
 ## Note
 
 1. `docker-compose` use GPU, needing high version of docker.
+
+
+## TODO
+
+- [ ] mount tf datasets folder
+- [ ] update notebook version
