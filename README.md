@@ -13,3 +13,8 @@ About transformer source code.
 
 - [mmdet](https://github.com/open-mmlab/mmdetection)
 - [transformers](https://github.com/huggingface/transformers)
+
+
+## Note
+
+1. `docker-compose` use GPU, needing high version of docker.
