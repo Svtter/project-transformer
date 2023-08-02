@@ -17,7 +17,7 @@ About transformer source code.
 
 ## Note
 
-1. `docker-compose` use GPU, needing high version of docker.
+1. `docker-compose` use GPU, needing high version of docker. [link](https://docs.docker.com/compose/gpu-support/)
 
 
 ## TODO
