@@ -378,3 +378,5 @@ torch2/cifar_net.pth
 
 # not a open config.
 config.json
+
+translator
